@@ -14,9 +14,9 @@ Lastly in the third phase, I collect every result as csv file in 'csvFiles/resul
 
 I also used Pandas library to workin on datasets and Multiprocessing library to make all process faster.
 
-For more information about my Article DOI number: 'https://doi.org/10.33461/uybisbbd.1344425'.
+For more information about my Article "An Evaluation of Turkish Hotel Websites: A New Perspective for eMICA", DOI number: 'https://doi.org/10.33461/uybisbbd.1344425'.
 
-For more information about my Master Thesis 'https://tez.yok.gov.tr/UlusalTezMerkezi/', thesis no: 793215.
+For more information about my Master Thesis "Evaluation of hotel websites by eMICA method", 'https://tez.yok.gov.tr/UlusalTezMerkezi/', thesis no: 793215.
 ```
 
 # Yüksek Lisans Tezi İçin Python ile Veri Eldesi (Turkish)
@@ -35,7 +35,7 @@ Projenin son aşamasında ise elde edilen tüm veriler 'csvFiles/results.csv' do
 
 Ayrıca bu projede, veri kümeleri üzerinde çalışmak için Pandas, işlem sürecini kısaltmak için Multiprocessing kütüphanelerini kullandım.
 
-Makalem hakkında daha fazla bilgi için, Makale DOI numarası: 'https://doi.org/10.33461/uybisbbd.1344425'.
+Makalem hakkında daha fazla bilgi için "An Evaluation of Turkish Hotel Websites: A New Perspective for eMICA", Makale DOI numarası: 'https://doi.org/10.33461/uybisbbd.1344425'.
 
-Master Tezim hakkında daha fazla bilgi için 'https://tez.yok.gov.tr/UlusalTezMerkezi/', tez no: 793215.
+Master Tezim hakkında daha fazla bilgi için "Otel web sitelerinin eMICA yöntemiyle değerlendirilmesi", 'https://tez.yok.gov.tr/UlusalTezMerkezi/', tez no: 793215.
 ```
